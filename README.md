@@ -12,4 +12,4 @@
 - 2023.12.26 ~ 2024.01.08
 
 ## ERD
-![기술과제 ERD](https://github.com/2JeongwooLee/Store-Reservation/assets/141619188/542f5a75-aaf6-4df6-9d23-37bc3d072bec)
+![기술과제 ERD](https://github.com/2JeongwooLee/Store-Reservation/assets/141619188/12cb9f5d-f596-4008-8a2a-351614c3c3d3)
